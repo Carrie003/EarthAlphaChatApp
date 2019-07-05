@@ -1,0 +1,7 @@
+1 - invalid input
+2 - login request delaying
+3 - no user exist
+4 - user is banned
+5 - login time reach up limit
+6 - wrong pass key
+7 - user already logged in

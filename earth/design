@@ -1,0 +1,44 @@
+Objects
+=======
+1.Journal
+2.Audio (limited to 10 seconds)
+#3.Videos[considering] (limited in 10 seconds)
+4.Text/photos
+#5.Second hand market offers (like eBay)
+#6.Dating notes
+7.Asking for Help (non-emergency)
+8.Local business info (current geographic only)
+9.Local events info (current geographic only)
+10.Announcement (Area broadcast)
+#11.Space gaming info [considering] (like treasure hunt)
+12.Q&A
+13.voting
+#14.questionnaire
+15.opinion(support or not)
+16.Ads
+
+structure
+=========
+1 - title,author,content,time
+2 - audio,author,time
+4 - text,photos,time
+7 - the problem,time
+8 - cover,author,introduction,pictures,open time,list of products(optional),time
+9 - cover,author,introduction,pictures,event time,time
+10 - style,content,time
+12 - question,pictures(optional),time
+13 - description,options,author,time
+15 - content,author,time
+16 - text,author,pictures,link,time
+
+Interaction
+===========
+1,2,4 - comment/reply/like/share/save/report
+7 - comment/reply/report
+8 - comment/score/reply/share/save/report
+9 - comment/reply/share/save/report
+10 - report
+12 - answer/reply/like/save/share/report
+13 - vote/share/report
+15 - like/dislike/save/report
+16 - view details(goes to biz info)/report

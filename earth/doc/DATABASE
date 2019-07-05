@@ -1,0 +1,23 @@
+user
+    _id
+    phone
+    vip
+    profile
+    nickname
+    signature
+    register_time
+    active
+    key
+    keytime
+    keycount
+    money
+    last_login
+    ip
+    password
+    permission
+    level
+    isbiz
+    isadmin
+    block
+
+object
